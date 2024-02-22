@@ -1,2 +1,1 @@
-# Data
-This work gains importance in the face of increasing weather-related incidents, providing valuable contributions to the fields of meteorology and disaster management.
+Developed an advanced weather image recognition system leveraging machine learning techniques for real-time detection of weather conditions from images contributing to disaster response information delivery
